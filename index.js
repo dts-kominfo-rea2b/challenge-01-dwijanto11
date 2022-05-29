@@ -69,7 +69,6 @@ users.push(secondUser);
 function main() {
     console.log(users.length || users.size);
     console.log(users);
-    console.log(users[0].favoriteColor)
 }
 
 main();
